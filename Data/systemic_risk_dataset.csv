@@ -1,0 +1,15 @@
+ Source,Target,Exposure,RiskScore,Type
+Bank A,Bank B,120,8,Bank
+Bank A,Bank C,80,7,Bank
+Bank B,Bank D,150,9,Bank
+Bank C,Bank D,60,6,Bank
+Bank D,Bank E,90,7,Bank
+Bank E,Bank F,40,5,Bank
+Bank B,Exchange X,110,8,Crypto
+Exchange X,Exchange Y,70,6,Crypto
+Exchange Y,Bank F,65,6,Crypto
+Bank C,Institution Z,95,7,Global
+Institution Z,Bank E,85,7,Global
+Bank A,Lending Hub,140,9,Interbank
+Lending Hub,Bank D,120,8,Interbank
+Bank F,Lending Hub,60,6,Interbank
